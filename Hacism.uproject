@@ -165,10 +165,6 @@
 			]
 		},
 		{
-			"Name": "AndroidPermission",
-			"Enabled": false
-		},
-		{
 			"Name": "AudioCapture",
 			"Enabled": false
 		},
